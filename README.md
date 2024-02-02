@@ -1,12 +1,16 @@
-# Infra Challenge 20210710
+# Infra Challenge 20240202
 
-Por favor, complete o seguinte desafio, você terá de documentar o seu processo e apresentá-lo (utilizando um PowerPoint ou apresentação semelhante), bem como demonstrar o resultado.
+## Introdução
+
+Este é um teste para que possamos ver as suas habilidades como DevOps.
+
+Nesse teste você deverá configurar um servidor, aplicar os principais recursos de segurança e trabalhar com Infra as Code
+
+[SPOILER] As instruções de entrega e apresentação do challenge estão no final deste Readme (=
 
 ### Antes de começar
  
-- Prepare o projeto para ser disponibilizado no Github, copiando o conteúdo deste repositório para o seu (ou utilize o fork do projeto e aponte para o Github);
-- O projeto deve utilizar a Linguagem especifica na sua Vaga (caso esteja se candidatando). Por exempo: Python, R, Scala e entre outras;
-- Considere como deadline 5 dias a partir do início do desafio. Caso tenha sido convidado a realizar o teste e não seja possível concluir dentro deste período, avise a pessoa que o convidou para receber instruções sobre o que fazer.
+- Considere como deadline da avaliação a partir do início do teste. Caso tenha sido convidado a realizar o teste e não seja possível concluir dentro deste período, avise a pessoa que o convidou para receber instruções sobre o que fazer.
 - Documentar todo o processo de investigação para o desenvolvimento da atividade (README.md no seu repositório); os resultados destas tarefas são tão importantes do que o seu processo de pensamento e decisões à medida que as completa, por isso tente documentar e apresentar os seus hipóteses e decisões na medida do possível.
 
 
@@ -23,7 +27,7 @@ A sua tarefa consiste em configurar um servidor baseado na nuvem e instalar e co
 
 
 
-## **Part 2 – Infra as a Code**
+## **Part 2 – Infra as Code**
 
 Como diferencial, você poderá configurar toda a infra-estrutura com ferramentas como:
 
@@ -41,23 +45,20 @@ Desenhar e construir uma pipeline para apoiar a entrega contínua da aplicação
 ## Readme do Repositório
 
 - Deve conter o título do projeto
-- Uma descrição de uma frase
+- Uma descrição sobre o projeto em frase
+- Deve conter uma lista com linguagem, framework e/ou tecnologias usadas
 - Como instalar e usar o projeto (instruções)
 - Não esqueça o [.gitignore](https://www.toptal.com/developers/gitignore)
+- Se está usando github pessoal, referencie que é um challenge by coodesh:  
 
-## Finalização
+>  This is a challenge by [Coodesh](https://coodesh.com/)
 
-Avisar sobre a finalização e enviar para correção em: [https://coodesh.com/review-challenge](https://coodesh.com/review-challenge)
-Após essa etapa será marcado a apresentação/correção do projeto.
+## Finalização e Instruções para a Apresentação
 
-## Instruções para a Apresentação:
-
-1. Será necessário compartilhar a tela durante a vídeo chamada;
-2. Deixe todos os projetos de solução previamente abertos em seu computador antes de iniciar a chamada;
-3. Deixe os ambientes configurados e prontos para rodar;
-4. Prepara-se pois você será questionado sobre cada etapa e decisão do Challenge;
-5. Prepare uma lista de perguntas, dúvidas, sugestões de melhorias e feedbacks (caso tenha).
+1. Adicione o link do repositório com a sua solução no teste
+2. Verifique se o Readme está bom e faça o commit final em seu repositório;
+3. Envie e aguarde as instruções para seguir. Sucesso e boa sorte. =)
 
 ## Suporte
 
-Use a [nossa comunidade](https://discord.com/invite/rdXbEvjsWu) para tirar dúvidas sobre o processo ou envie uma mensagem diretamente a um especialista no chat da plataforma.
+Use a [nossa comunidade](https://discord.gg/rdXbEvjsWu) para tirar dúvidas sobre o processo ou envie uma mensagem diretamente a um especialista no chat da plataforma. 
