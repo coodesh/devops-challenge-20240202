@@ -57,8 +57,9 @@ Desenhar e construir uma pipeline para apoiar a entrega contínua da aplicação
 
 1. Adicione o link do repositório com a sua solução no teste
 2. Verifique se o Readme está bom e faça o commit final em seu repositório;
-3. Envie e aguarde as instruções para seguir. Sucesso e boa sorte. =)
+3. Envie e aguarde as instruções para seguir. Caso o teste tenha apresentação de vídeo, dentro da tela de entrega será possível gravar após adicionar o link do repositório. Sucesso e boa sorte. =)
+
 
 ## Suporte
 
-Use a [nossa comunidade](https://discord.gg/rdXbEvjsWu) para tirar dúvidas sobre o processo ou envie uma mensagem diretamente a um especialista no chat da plataforma. 
+Para tirar dúvidas sobre o processo envie uma mensagem diretamente a um especialista no chat da plataforma. 
